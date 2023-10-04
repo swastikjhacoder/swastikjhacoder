@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swastik Jha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src=“https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align=“right” width=“400px” alt=“coding”>
+<p>I am excited to apply for the position of Full Stack Developer. With over 15 years of experience in various departments and industries, I'm excited to explore the chance of working for such a well-known company. I'm always looking to further my knowledge in this industry and keep up with the latest trends and research, and I feel your organisation is a place where I can do just that. I believe this position would be a great opportunity for me to expand my skills while providing top-notch services to your organisation.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastikjhacoder&label=Profile%20views&color=0e75b6&style=flat" alt="swastikjhacoder" /> </p>
 
