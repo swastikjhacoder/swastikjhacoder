@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swastikjhacoder" alt="swastikjhacoder" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://swastikjhacoder.github.io/swastik-resume.github.io/](https://swastik.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://swastik.onrender.com//](https://swastik.onrender.com/)
 
 - 💬 Ask me about **React, Node, Express, Java**
 
