@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1zgDSNr-kQmMu_vo6yVGKM9vGRV8qPcgL](https://drive.google.com/drive/u/0/folders/1zgDSNr-kQmMu_vo6yVGKM9vGRV8qPcgL)
 
-- ⚡ Fun fact **Being Myself**
+- ⚡ My leetcode profile https://leetcode.com/swastikjhacoder/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
