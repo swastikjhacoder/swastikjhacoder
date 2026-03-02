@@ -12,12 +12,42 @@
 
 ---
 
+---
+
 ### 📫 Connect With Me
 
 <p align="center">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/swastik-jha-467583181/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
   </a>
+
+  &nbsp;&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:mr.swastikjha@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/919674910207" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="30" />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/swastikjhacoder/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="30" />
+  </a>
+
+</p>
+
+<p align="center">
+📧 mr.swastikjha@gmail.com &nbsp; | &nbsp; 📱 +91 9674910207
 </p>
 
 ---
