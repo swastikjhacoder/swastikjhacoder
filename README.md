@@ -135,8 +135,20 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastikjhacoder&show_icons=true&locale=en&layout=compact" alt="swastikjhacoder" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swastikjhacoder&show_icons=true&locale=en" alt="swastikjhacoder" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastikjhacoder&" alt="swastikjhacoder" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=swastikjhacoder&show_icons=true&theme=tokyonight" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swastikjhacoder&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="165" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastikjhacoder&theme=tokyonight" height="165" />
+
+</div>
