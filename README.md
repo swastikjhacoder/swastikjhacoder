@@ -12,10 +12,6 @@
 
 ---
 
----
-
----
-
 ### 📫 Connect With Me
 
 <p>
@@ -32,6 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="18" /> LeetCode
 </a>
 </p>
+
+---
 
 ### 🛠 Languages & Technologies
 
