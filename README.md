@@ -1,10 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swastik Jha</h1>
-<h3 align="center">Technical Architect | Full Stack Engineering Leader</h3>
-
-<p align="center">
-Technical Architect with 10+ years of experience designing scalable, high-performance cloud-native systems.
-Specialized in MERN stack, microservices architecture, SaaS platforms, and AI-powered applications.
-</p>
+<h1 align="center">Hi 👋, I'm Swastik Jha</h1> <h3 align="center">A passionate full stack developer from India</h3> <p>I am a Technical Architect and Full Stack Engineering Leader with 10+ years of experience architecting scalable, high-performance applications and leading cross-functional engineering teams. I specialize in designing cloud-native MERN stack systems, building production-grade SaaS platforms, and delivering end-to-end technical solutions from concept to deployment.</p> <p>Currently, I lead teams of 15+ engineers, driving system architecture, technical strategy, sprint delivery, and product scalability. I have successfully built AI-powered applications, enterprise dashboards, SaaS platforms, and real-time systems using Node.js, Next.js, React, MongoDB, AWS, and GCP.</p> <p>My work has delivered measurable business results, including improving team productivity by 25% and increasing company revenue by 30% through scalable architecture and optimized business logic.</p> <p>Core Expertise:</p> <ul> <li>System Architecture & Technical Design</li> <li>MERN Stack & Full Stack Engineering</li> <li>Cloud Architecture (AWS / GCP)</li> <li>Microservices & Scalable Systems</li> <li>Agile / Sprint Planning / Delivery Ownership</li> <li>Team Leadership & Mentoring</li> <li>AI & Real-time Applications</li> <li>Performance Optimization & Security</li> </ul> <p>I am currently open to Technical Architect / MERN Architect / Engineering Manager / Project Manager opportunities where I can design scalable systems, lead engineering teams, and drive successful product delivery.</p>
 
 ---
 
