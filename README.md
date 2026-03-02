@@ -19,7 +19,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastikjhacoder&label=Profile%20views&color=0e75b6&style=flat" alt="swastikjhacoder" /> </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-sigma.vercel.app/?username=swastikjhacoder&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=swastikjhacoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </p>
 
 - 👨‍💻 All of my projects are available at [https://swastik.onrender.com//](https://swastik.onrender.com/)
@@ -141,9 +141,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=swastikjhacoder&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swastikjhacoder&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swastikjhacoder&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikjhacoder&layout=compact&theme=tokyonight&cache_seconds=1800" height="165" />
 
 </div>
 
